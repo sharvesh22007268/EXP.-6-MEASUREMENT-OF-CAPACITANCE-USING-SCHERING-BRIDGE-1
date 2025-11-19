@@ -37,6 +37,8 @@ The current voltmeter reading is:
 
   ## Circuit Diagram :
   <img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/9fb955cb-44e3-4b4d-a389-2f4628c50930" />
-
+  ## output:
+<img width="994" height="685" alt="image" src="https://github.com/user-attachments/assets/b4f1e804-bf7c-4464-94d5-b090e3859c7b" />
 
 ## Result: 
+Thus the  Determine the Capacitance of an unknown Capacitor using Schering Bridge has been observed
